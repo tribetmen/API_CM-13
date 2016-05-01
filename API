@@ -3,13 +3,13 @@
  "result": [
 {
     "url": "https://www.dropbox.com/s/zdopnxii16t26wn/cm-13.0-20160430-UNOFFICIAL-IQ4511.zip?dl=1",
-    "timestamp": "1462008652",
+    "timestamp": "1462032539",
     "api_level": "23",
-    "md5sum": "7f7be1baeefa0ccb3f9618b7fb2ce420",
+    "md5sum": "1bb55e417edc66616bbfe262099cbd1d",
     "filename": "cm-13.0-20160430-UNOFFICIAL-IQ4511.zip",
-    "channel": "RELEASE",
+    "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/hyperion70/API_CM-13/master/CHANGELOG-01",
-    "incremental": "1076657632"
+    "incremental": "59b0539cda"
     },
   ],
  "error": null
