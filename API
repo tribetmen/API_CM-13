@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1489908761, 
-      "filename": "lineage-13.0-20170426-UNOFFICIAL-HT16.zip", 
-      "id": "1cf44b15a9547b685573eded0e7be4e2", 
+      "datetime": 1493147150, 
+      "filename": "lineage-13.0-20170425-UNOFFICIAL-HT16.zip", 
+      "id": "89230f08b3fa0448136f455a57e595f1", 
       "romtype": "official", 
-      "url": "https://de1.androidfilehost.com/dl/YKsO7y7MJGK5aBVmCeqUtg/1490520669/457095661767147699/HexagonROM-oneplus3-V2.3-hex-7.1-OFFICIAL-20170323.zip",
-      "version": "2.3"
+      "url": "https://dl.dropbox.com/s/gaej1y1wj04mb6e/lineage-13.0-20170425-UNOFFICIAL-HT16.zip",
+      "version": "1"
     }
   ]
