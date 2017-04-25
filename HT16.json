@@ -1,11 +1,10 @@
 {
   "response": [
     {
-      "datetime": 1493147150, 
+      "datetime": 1493153469, 
       "filename": "lineage-13.0-20170425-UNOFFICIAL-HT16.zip", 
-      "id": "89230f08b3fa0448136f455a57e595f1", 
-      "romtype": "official", 
+      "id": "319ffbc43e1f195fe3ba70a2afec8bb2", 
+      "romtype": "unofficial", 
       "url": "https://dl.dropbox.com/s/gaej1y1wj04mb6e/lineage-13.0-20170425-UNOFFICIAL-HT16.zip",
-      "version": "1"
     }
   ]
